@@ -1,0 +1,3 @@
+Name: Guohua
+HP: 19
+Item:[Boiled Egg,]
