@@ -8,7 +8,7 @@ A text-based adventure game based on leak of a submarine, **find 3 items** to wi
 
 ## My idea
 
-An **escape room** game(https://en.wikipedia.org/wiki/Escape_room), escaping from the leaking submarine
+An **escape room** game(https://en.wikipedia.org/wiki/Escape_room), escaping from the leaking submarine (linear process)
 
 ## Discussion Question
 
@@ -20,7 +20,6 @@ Things to be discussed
 
 - Rooms in the Game
 
-  - Control Room
   - Engine Room
   - Sonar Room
   - Kitchen
@@ -40,7 +39,7 @@ Things to be discussed
 ```
 >(ask)How to boil an egg (items)
 ->hot water and raw egg
->Obtained a boil egg
+>Obtained a boiled egg
 ```
 
   - Puzzle 2:`random.choice()`(range 1-10) function to obtain nuclear power in control and engine room(you can make one room empty and reduce a large amount of blood) 
