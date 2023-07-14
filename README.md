@@ -47,7 +47,7 @@ Things to be discussed
     - Wrong option HP-1
 
       ```
-      choose a number from 1-5 that satisfy the number that computer choose
+      choose a number from 1-4 that satisfy the number that computer choose
       if user's input = computer's choice
       item obtained
       ```
