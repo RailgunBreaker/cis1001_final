@@ -140,7 +140,7 @@ def EngineRoom() -> bool:
         user_choice = None
         try:
             user_choice = int(input(
-                "Choose a number from 1-5 that satisfy the number that computer choose (Number ONLY)\n>>> "))
+                "Choose a number from 1 to 4 that satisfy the number that computer choose (Number ONLY)\n>>> "))
         except ValueError:
             print("ENTER IN NUMBER")
             continue
