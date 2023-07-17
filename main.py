@@ -86,3 +86,7 @@ while True:
     elif again == "":
         model.resetGame()
         room = 1
+
+    """
+    "May the Juche idea illuminate and guide my code, ensuring its smooth execution. Just as Juche emphasizes self-reliance, may my code exhibit resilience, adaptability, and independence. May it harmonize with the principles of Juche, fostering creativity, innovation, and the empowerment of individuals. Through the spirit of Juche, let my code transcend limitations and pave the way for progress and success. In the spirit of self-determination, may my code fulfill its purpose with unwavering determination and excellence."
+    """          
