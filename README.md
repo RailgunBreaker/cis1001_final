@@ -42,7 +42,7 @@ Things to be discussed
 >Obtained a boiled egg
 ```
 
-  - Puzzle 2:`random.choice()`(range 1-10) function to obtain nuclear power in control and engine room(you can make one room empty and reduce a large amount of blood) 
+  - Puzzle 2:`random.choice()`(range 1-4) function to obtain nuclear power in control and engine room(you can make one room empty and reduce a large amount of blood) 
 
     - Wrong option HP-1
 
